@@ -1,6 +1,6 @@
 # Expansão do Sistema de Gerenciamento de Produtos
 
-**Branch que está as alterações dessa atividade**: `develop`  
+**Branch que está as alterações dessa atividade 13/12/2024**: `develop`  
 **Superuser**:  
 - **Usuário**: `douglas`  
 - **Senha**: `douglas`  
