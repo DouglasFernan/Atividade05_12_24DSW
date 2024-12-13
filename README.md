@@ -1,6 +1,6 @@
 # Expansão do Sistema de Gerenciamento de Produtos
 
-**Branch ativa**: `develop`  
+**Branch que está as alterações dessa atividade**: `develop`  
 **Superuser**:  
 - **Usuário**: `douglas`  
 - **Senha**: `douglas`  
